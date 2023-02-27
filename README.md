@@ -20,6 +20,7 @@ $ yarn start
 2. Open the browser and go to `http://localhost:3000`
 
 3. Select a large csv file. (I used a 1 million records file)
+4. 
 [https://www.kaggle.com/datasets/foenix/slc-crime?select=SLC_Police_Calls_2013__2016_cleaned_geocoded.csv](https://www.kaggle.com/datasets/foenix/slc-crime?select=SLC_Police_Calls_2013__2016_cleaned_geocoded.csv)
 
 4. Type a term to search for in the input field.
