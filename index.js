@@ -4,7 +4,7 @@ import View from "./view.js"
 
 // worker modules só funciona no chrome por enquanto
 // ou seja worker funciona, mas import/export nao
-const worker = new Worker('./src/worker.js', {
+const worker = new Worker('./worker.js', {
   type: "module"
 })
 
